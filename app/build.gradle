@@ -19,7 +19,7 @@ android {
         versionCode 1
         versionName "1.0"
 
-        buildConfigField "String", "ApiKey", localProperties['ApiKey']
+//        buildConfigField "String", "ApiKey", localProperties['ApiKey']
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
